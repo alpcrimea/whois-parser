@@ -18,7 +18,7 @@ module Whois
     # @see Whois::Parsers::Example
     #   The Example parser for the list of all available methods.
     #
-    class WhoisNicTech < WhoisCentralnicCom
+    class WhoisNicShop < WhoisCentralnicCom
     end
 
   end
